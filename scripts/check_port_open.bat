@@ -1,1 +1,1 @@
-mkdir c:\check
+ECHO Check if port open
