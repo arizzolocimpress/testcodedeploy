@@ -13,5 +13,3 @@ hooks:
   ValidateService:
     - location: scripts/check_port_open.bat
       timeout: 300
-	  
-
